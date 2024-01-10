@@ -2,8 +2,6 @@
 
 My name is Bailey, and I am a patent litigator 👩🏻‍⚖️ turned software developer 👩🏻‍💻
 
-I recently completed Flatiron School's Software Engineering Immersive, where I learned HTML, CSS, JavaScript, Ruby, and more. Also, I'm currently teaching myself Python.
-
 I would love to connect here on GitHub, on [LinkedIn](https://www.linkedin.com/in/bvcage), or [by email](mailto:bailey.cage@gmail.com?subject=Hello%20from%20GitHub!).
 
 <!--
